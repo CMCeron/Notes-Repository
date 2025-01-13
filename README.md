@@ -3,7 +3,10 @@
 A repository of notes where you can access to them wherever you want
 </p>
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="imagen">
+ <a href="./Proyecto/index.html">
+  <img hight="300" width="700" alt="GIF" align="center" src="imagen">
+ </a>
+
 </div>
 
 
