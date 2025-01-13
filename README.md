@@ -1,10 +1,11 @@
 # Notes-Repository
+<p align=center>
+A repository of notes where you can access to them wherever you want
+</p>
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="imagen">
 </div>
-<p>
-A repository of notes where you can access to them wherever you want
-</p>
+
 
 # Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
