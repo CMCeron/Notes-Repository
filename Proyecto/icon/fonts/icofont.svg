@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+<font id="icofont" horiz-adv-x="1000" >
+<font-face font-family="IcoFont" font-weight="400" font-style="Regular" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="user-notes" horiz-adv-x="1000" unicode="&#x13bd8;" d="M57 86c-18 0-33 15-33 33l0 648c0 18 15 33 33 33l648 0c18 0 33-15 33-33l0-648c0-17-13-31-29-33l-4 0-648 0z" />
+<glyph glyph-name="user-notes" horiz-adv-x="1000" unicode="&#x13bd7;" d="M811 697l4 0c13 0 25-9 29-22l1-3 113-625c3-17-7-33-23-38l-4-1-624-112c-1 0-3 0-4 0l-4 0c-14 1-26 10-30 23l-1 4-18 100 528 0c17 0 31 13 33 29l0 4 0 641 4 0-4 0z" />
+<glyph glyph-name="menu" horiz-adv-x="1000" unicode="&#x13b65;" d="M664 303l219 0c62 0 113-49 117-111l0-6 0-219c0-62-49-113-111-117l-6 0-219 0c-62 0-114 49-117 111l0 6 0 219c0 62 49 114 111 117l6 0 219 0-219 0z m-547 547l219 0c62 0 114-49 117-111l0-6 0-219c0-62-49-114-111-117l-6 0-219 0c-62 0-113 49-117 111l0 6 0 219c0 62 49 113 111 117l6 0 219 0-219 0z" />
+<glyph glyph-name="menu" horiz-adv-x="1000" unicode="&#x13b64;" d="M117 303l219 0c62 0 114-49 117-111l0-6 0-219c0-62-49-113-111-117l-6 0-219 0c-62 0-113 49-117 111l0 6 0 219c0 62 49 114 111 117l6 0 219 0-219 0z m547 547l219 0c62 0 113-49 117-111l0-6 0-219c0-62-49-114-111-117l-6 0-219 0c-62 0-114 49-117 111l0 6 0 219c0 62 49 113 111 117l6 0 219 0-219 0z" />
+</font>
+</defs>
+</svg>
