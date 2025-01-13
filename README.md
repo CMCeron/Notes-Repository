@@ -18,4 +18,4 @@ A repository of notes where you can access to them wherever you want
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
  <br/>
 # Social
-[![](https://img.shields.io/badge/linkedin-0a66c2)]((https://www.linkedin.com/in/clementina-mar%C3%ADa-cer%C3%B3n-s%C3%A1nchez-4a415433a/))
+[![](https://img.shields.io/badge/linkedin-0a66c2)](www.linkedin.com/in/clementina-maría-cerón-sánchez-4a415433a)
